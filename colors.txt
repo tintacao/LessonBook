@@ -1,0 +1,20 @@
+~All colors in Hex
+~
+~Button
+#c4cfe7
+~
+~Button with Agenda
+#cfe7c4
+~
+~Button in NW corner
+#c4e1e7
+~
+~Lables on Grid
+#e7ebf5
+~
+~Window BG
+#dfe3ee
+~
+~Red ag Label
+#ddc5e8
+~
